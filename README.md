@@ -1,6 +1,6 @@
 # rock_paper_scissors
 
-Rock_Paper_Scissors is Backend_Recruiting_test for the compagny Skeepers.
+Rock_Paper_Scissors is a Backend Recruiting test for the compagny Skeepers. 
 For this exercice, I use Ruby 
 
 ## Mission
