@@ -12,11 +12,11 @@ computer_hand = HANDS.sample
 player_hand = nil
 puts "What's your name ?"
 print '> '
-player_name = gets.chomp
+player_name = gets.chomp.capitalize
 loop do
   puts "Please choose your hand (#{HANDS.join(", ")})"
   print '> '
-  player_hand = gets.chomp
+  player_hand = gets.chomp.downcase
 
   if HANDS.include?(player_hand)
     break

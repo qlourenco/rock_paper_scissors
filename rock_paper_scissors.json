@@ -1,0 +1,16 @@
+{
+  "moves": [
+    {
+      "name": "Quentin",
+      "move": "rock"
+    },
+    {
+      "name": "bot",
+      "move": "scissors"
+    }
+  ],
+  "result": {
+    "tie": false,
+    "winner": "Quentin"
+  }
+}
