@@ -1,7 +1,7 @@
 {
   "moves": [
     {
-      "name": "Ponky",
+      "name": "Manu",
       "move": "rock"
     },
     {
@@ -11,6 +11,6 @@
   ],
   "result": {
     "tie": false,
-    "winner": "Ponky"
+    "winner": "Manu"
   }
 }

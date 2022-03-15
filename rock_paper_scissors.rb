@@ -1,5 +1,6 @@
 require 'json'
 
+
 HANDS = %w(rock paper scissors)
 
 # initialize draw equal false
